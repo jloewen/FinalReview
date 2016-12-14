@@ -9,7 +9,7 @@ public class Test4
 {
 
     private int num;
-    public static int getIt(int num) //prob 6
+    public static int getIt(int num) //prob 6 and 7
     {
         int ans = 0;
         if( num >=2 )

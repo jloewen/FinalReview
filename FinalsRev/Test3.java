@@ -12,9 +12,9 @@ public class Test3
 
     public static void main(){
         int[][] mat = {{2,3,4,5},
- {6,7,8,9,10}};
-System.out.println("30. " + mat[1].length);
-System.out.println("    " + mat.length);
-System.out.println("    " + mat[0].length);
+                {6,7,8,9,10}};
+        System.out.println("30. " + mat[1].length);
+        System.out.println("    " + mat.length);
+        System.out.println("    " + mat[0].length);
     }
 }
